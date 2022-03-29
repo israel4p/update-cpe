@@ -7,7 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-paramiko = "^2.9.2"
+paramiko = "^2.10.1"
 scp = "^0.14.4"
 
 [tool.poetry.dev-dependencies]
